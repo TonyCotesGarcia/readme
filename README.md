@@ -1,4 +1,4 @@
-# TeeChart for .NET Avalonia
+# TeeChart for Avalonia
 ## Realtime demo dashboard for NET Avalonia.
  
 The demo runs a time based simulation of real-time data entering a system to track several different indicators via different chart and gauge types.<br>
