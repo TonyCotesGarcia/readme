@@ -12,7 +12,7 @@ This is the dashboard created by the demo project:
 For more information visit [https://www.steema.com/product/net_avalonia](https://www.steema.com/product/net_avalonia)
 
 ### Nuget package
-[Nuget: https://www.nuget.org/packages/Steema.TeeChart.NET/](https://www.nuget.org/packages/Steema.TeeChart.NET.Avalonia)
+[Nuget: https://www.nuget.org/packages/Steema.TeeChart.NET.Avalonia](https://www.nuget.org/packages/Steema.TeeChart.NET.Avalonia)
  
 ## Steema Software SL
 [https://www.steema.com/](https://www.steema.com/) - info@steema.com
