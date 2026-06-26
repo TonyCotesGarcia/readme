@@ -1,5 +1,5 @@
 # TeeChart for .NET Avalonia
-## Realtime demo dashboard for NET WPF.
+## Realtime demo dashboard for NET Avalonia.
  
 The demo runs a time based simulation of real-time data entering a system to track several different indicators via different chart and gauge types.<br>
 
@@ -9,7 +9,7 @@ This is the dashboard created by the demo project:
 
 
 ## References
-For more information visit [https://www.steema.com/product/net](https://www.steema.com/product/net)
+For more information visit [https://www.steema.com/product/net_avalonia(https://www.steema.com/product/net_avalonia)]
 
 ### Nuget package
 [Nuget: https://www.nuget.org/packages/Steema.TeeChart.NET/](https://www.nuget.org/packages/Steema.TeeChart.NET/)
